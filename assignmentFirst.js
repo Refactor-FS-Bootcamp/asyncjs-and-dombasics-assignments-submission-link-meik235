@@ -6,7 +6,7 @@ console.log(fullName);               // "Alice Brown"
 
 // endsWith
 let sent = "Lorem Ipsum is simply dummy text of the printing and typesetting industry.";
-console.log(sent.endsWith("industry."));
+console.log(sent.endsWith("industry."));   // true
 
 // slice
 console.log(sent.slice(0, 5));        // "Lorem"
